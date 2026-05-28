@@ -34,5 +34,3 @@ Excel automation
 File handling
 Payroll system logic
 Data management.
-## output
-<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/e2ef4a67-ed98-4a88-be35-b36a5a0d97f1" />
