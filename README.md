@@ -27,20 +27,14 @@ Kamil Abbas
 2. Install required libraries
 3. Run the main Python file
 
-```bash
-pip install openpyxl
-python main.py
-
----
-
-### 7. Learning Outcomes
-```md id="asllgn"
 ## Learning Outcomes
-- Python programming concepts
-- Excel automation
-- File handling
-- Payroll system logic
-- Data management
+```md id="asllgn"
+Python programming concepts
+Ecel automation
+File handling
+Payroll system logic
+Data management.
+
 ## Screenshots
 <.png width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4d53223e-2eb8-4501-915a-27ce2a502b89" />
 <.png width="975" height="545" alt="image" src="https://github.com/user-attachments/assets/c3286411-fdb0-4f93-9ddc-209f6eafd02f" />
