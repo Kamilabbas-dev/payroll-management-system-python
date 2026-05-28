@@ -42,9 +42,8 @@ python main.py
 - Payroll system logic
 - Data management
 ## Screenshots
-Add project screenshots here.
-<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4d53223e-2eb8-4501-915a-27ce2a502b89" />
-<img width="975" height="545" alt="image" src="https://github.com/user-attachments/assets/c3286411-fdb0-4f93-9ddc-209f6eafd02f" />
+<.png width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4d53223e-2eb8-4501-915a-27ce2a502b89" />
+<.png width="975" height="545" alt="image" src="https://github.com/user-attachments/assets/c3286411-fdb0-4f93-9ddc-209f6eafd02f" />
 <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/a0b6b3df-7098-4726-a59e-86ae3a8d2efb" />
 <img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/9b487a18-4365-48ae-840f-17841313dfd6" />
 <img width="975" height="533" alt="image" src="https://github.com/user-attachments/assets/0628dfcc-fd3f-4266-a3b4-eb316c495261" />
